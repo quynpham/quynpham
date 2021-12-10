@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [my CV](https://www.canva.com/design/DAEx2lJU_jA/dxRMPdZ0teMjmJokXvXa-w/view?utm_content=DAEx2lJU_jA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I still don't know to ride a bike. Must learn that before my son does...**
+- ⚡ Fun fact **I still don't know how to ride a bike. Must learn that before my son does...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

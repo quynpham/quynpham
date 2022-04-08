@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quynh Anh</h1>
-<h3 align="center">An aspiring fullstack web developer</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **my own portfolie (soon)**
+- 🔭 Here is <a href="https://www.quynhanhpham.me/" target="blank">**My portfolio.**</a>
 
 - 🌱 I’m currently learning **Javascript, React and SQL**
 
